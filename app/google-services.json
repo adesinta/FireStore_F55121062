@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987435642754",
+    "project_id": "modul6-firestore-f55121062",
+    "storage_bucket": "modul6-firestore-f55121062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987435642754:android:4eafaf7baf6c15c91e299b",
+        "android_client_info": {
+          "package_name": "com.ades.firestore_f55121062"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987435642754-6idck38a6288vfjsbs34pkb89lldup8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcc8grlJoZw39FTMl835u8KW6-7SEjwWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987435642754-6idck38a6288vfjsbs34pkb89lldup8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
